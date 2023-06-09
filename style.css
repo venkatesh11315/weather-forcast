@@ -1,0 +1,41 @@
+.card {
+    width: 500px;
+  
+    background-color: rgb(73, 72, 73);
+    color: rgb(247, 244, 240);
+    font-family: 'Times New Roman', Times, serif;
+        font-style: bold;
+  }
+  .card-header {
+    background-color: #1f7ddc;
+    
+  }
+  .card-body {
+    text-align: center;
+  }
+  .temperature {
+    font-size: 48px;
+    font-weight: bold;
+  }
+  .description {
+    margin-top: 10px;
+  }
+  .button {
+      background-color: #147ee8;
+      color: rgb(251, 250, 249);
+      
+     
+     
+  }
+  .form-control{
+      margin-bottom: 1rem;
+  }
+  .card-title{
+      
+      text-align: center;
+
+  }
+  P{
+        font-family: 'Times New Roman', Times, serif;
+        font-style: bold;
+  }
